@@ -1,0 +1,84 @@
+Uri: https://www.feiracerto.site/
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\index.htm
+Content Type: text/html
+
+Uri: https://www.feiracerto.site/_next/static/css/8a90997be7884f46.css?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\css\8a90997be7884f46.css
+Content Type: text/css
+
+Uri: https://www.feiracerto.site/politica-de-privacidade
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\politica-de-privacidade
+Content Type: text/html
+
+Uri: https://www.feiracerto.site/termos-de-uso
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\termos-de-uso
+Content Type: text/html
+
+Uri: https://www.feiracerto.site/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/webpack-b4405ac1b2b64b0f.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\webpack-b4405ac1b2b64b0f.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/framework-37f3832b4337c515.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\framework-37f3832b4337c515.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/main-e2d09f22ca302b7b.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\main-e2d09f22ca302b7b.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/pages/_app-d8615c05404f769b.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\pages\_app-d8615c05404f769b.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/961-a3b8e685df4b82df.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\961-a3b8e685df4b82df.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/pages/index-235b5372080914ba.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\pages\index-235b5372080914ba.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/VyaSIL93Q5Q0QOsiTRK_L/_buildManifest.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\VyaSIL93Q5Q0QOsiTRK_L\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/VyaSIL93Q5Q0QOsiTRK_L/_ssgManifest.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\VyaSIL93Q5Q0QOsiTRK_L\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/inicio
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\inicio
+Content Type: text/html
+
+Uri: https://www.feiracerto.site/servicos
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\servicos
+Content Type: text/html
+
+Uri: https://www.feiracerto.site/_next/static/chunks/pages/politica-de-privacidade-5691b9704f28d68c.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\pages\politica-de-privacidade-5691b9704f28d68c.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/images/logo.png
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\images\logo.png
+Content Type: image/png
+
+Uri: https://www.feiracerto.site/_next/static/chunks/pages/termos-de-uso-0cb03557704d7e5f.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\pages\termos-de-uso-0cb03557704d7e5f.js
+Content Type: application/javascript
+
+Uri: https://checkout.ligafacil.online/VCCL1O8SBTBG
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\VCCL1O8SBTBG.html
+Content Type: text/html
+
+Uri: https://www.feiracerto.site/_next/static/chunks/pages/inicio-ee806106c4a4a16c.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\pages\inicio-ee806106c4a4a16c.js
+Content Type: application/javascript
+
+Uri: https://www.feiracerto.site/_next/static/chunks/pages/servicos-bd5812dc1d48b7b2.js?dpl=dpl_523DxUbaWtuMAeZrNVmPuok1xCmA
+File Name: C:\Downloaded Web Sites\www.feiracerto.site\_next\static\chunks\pages\servicos-bd5812dc1d48b7b2.js
+Content Type: application/javascript
+
